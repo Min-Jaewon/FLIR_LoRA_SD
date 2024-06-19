@@ -1,5 +1,5 @@
 ## LoRA Finetuning Stable Diffusion with FLIR Dataset
-This repository contains codes for generating IR images by LoRA finetuning Stable Diffusion v1.5 with an empty prompt using FLIR dataset.
+This repository contains codes for generating IR images by LoRA finetuning Stable Diffusion v1.5 with empty prompts using FLIR dataset.
 
 Codes are based on [example code](https://github.com/huggingface/diffusers/blob/main/examples/text_to_image/train_text_to_image_lora.py) of diffusers. [PAG](https://github.com/KU-CVLAB/Perturbed-Attention-Guidance) is used for inference. 
 
