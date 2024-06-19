@@ -33,7 +33,7 @@ sh train.sh
 ```
 
 ## Inference
-Place your lora weights ```pytorch_lora_weights.safetensors``` on ```/lora_weight``` or just fix the path in the code.
+Place your lora weights ```pytorch_lora_weights.safetensors``` on ```/lora_weight``` or just fix the path of lora weights in the inference code.
 ```
 python inference.py
 ```
