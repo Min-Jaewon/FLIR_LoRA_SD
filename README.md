@@ -37,4 +37,4 @@ Place your lora weights ```pytorch_lora_weights.safetensors``` on ```/lora_weigh
 ```
 python inference.py
 ```
-Use ```make_grid.py``` for generate the grid from images.
+Use ```make_grid.py``` for generating the grid from images.
