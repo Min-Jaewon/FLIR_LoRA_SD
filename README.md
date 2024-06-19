@@ -40,4 +40,4 @@ You can just fix above paths in the inference code.
 ```
 python inference.py
 ```
-Use ```make_grid.py``` for generating the grid from images.
+Also, you can use  ```make_grid.py``` for generating the grid of images.
